@@ -9,7 +9,7 @@ You will need a twitter developer account, you can for the most part bs your way
 https://developer.twitter.com/en
 
 Once you make a twitter developer account you will need oauth 2.0, if you scroll down from the keys panel you will find it. 
-When you sign up for it you can you https://localhost and a random link for the website link requirements. 
+When you sign up for it you can you use https://localhost and a random link for the website link requirements. 
 
 You will also be needing a twitch oauth token for the twitch bot account that you have to make
 https://twitchapps.com/tmi/

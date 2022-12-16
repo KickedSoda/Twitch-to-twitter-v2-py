@@ -18,4 +18,7 @@ This website will generate your oauth token for you.
 After you sign up for the twitter oauth 2.0 and get your Twitch oauth, all you need to do is run the executable file and input 
 the keys into the terminal.
 
-from there the bot will start up!
+from there the bot will start up have fun!
+
+If you need any help you can DM me on discord 
+Kickedsoda#7827

@@ -3,6 +3,7 @@
 Have the latest version of python installed just incase. The dependencies needed should auto install, but incase they dont you will need tweepy and twitchio
 
 tweepy: pip install tweepy
+
 twitchio: pip install twitchio
 
 You will need a twitter developer account, you can for the most part bs your way through it 
